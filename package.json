@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "Hamdan Ashimi",
   "license": "ISC",
-  "description": "",
+  "description": "Mapty",
   "dependencies": {
     "parcel": "^2.16.1"
   },
